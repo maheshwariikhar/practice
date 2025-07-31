@@ -10,6 +10,7 @@ namespace practice
     {
         static void Main()
         {
+            Console.WriteLine("xyz");
 
         }
     }
