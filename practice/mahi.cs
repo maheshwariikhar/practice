@@ -8,5 +8,9 @@ namespace practice
 {
     internal class mahi
     {
+      static void Main()
+        {
+            Console.WriteLine("Adding method");
+        }
     }
 }
