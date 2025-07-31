@@ -8,6 +8,9 @@ namespace practice
 {
     internal class Sandy
     {
-      
+      static void Main()
+        {
+            Console.WriteLine("my name is Sandy");
+        }
     }
 }
