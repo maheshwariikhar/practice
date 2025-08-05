@@ -8,5 +8,9 @@ namespace practice
 {
     internal class test
     {
+        static void Main()
+        {
+
+        }
     }
 }
